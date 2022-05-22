@@ -1,0 +1,35 @@
+#okvir 
+    {
+	display: flex;
+	flex-direction: row;
+	width: 100vw;
+	height: 100vh;
+    background-color: #ffbbff;
+	margin: 0;
+    padding: 0;
+    }
+#dunja
+    {
+	width: 30vw;
+	height: 90vh;
+	
+	font-family: Comic Sans MS;
+	background-color: #ffbbff;
+    text-align: left;
+    color: blue;
+	margin-left: 10px;
+ 	}
+#myImg 
+    {
+	width: 30vw;
+	height: 90vh;
+	background-color: #ffbbff;   
+	
+    }	
+#myImg1 
+    {
+	width: 30vw;
+	height: 90vh;
+	background-color: #ffbbff;   
+	
+    }		

@@ -1,0 +1,52 @@
+*{
+    font-family: Comic Sans MS;
+    color: blue;
+    margin: 0;
+    padding: 0;
+    
+}
+.okvir{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    
+    
+}
+.okvir1{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+}
+.okvir2{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background-color: #ffbbff;
+}
+.okvir3{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+    background-color: #ffbbff;
+}
+.menu{
+    width: 20vw;
+    height: 100vh;
+    background-color: aquamarine;
+}
+.zaglavlje{
+    width: 100vw;
+    height: 20vh;
+    text-align: center;
+}
+.textnaslovna{
+    text-align: center;
+
+}
+.pred{
+    margin: 3em;
+    text-align: left;
+}
